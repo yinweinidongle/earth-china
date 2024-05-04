@@ -1,10 +1,11 @@
 
-this is a vite + vue3 + threejs  project .
+this is a vue3 + threejs  project .
 
-shader + tween + geojson  
+shader + tween + geojson  exercise
 
 
-![earth](https://github.com/yinweinidongle/earth-china/assets/18652091/a4cbaebc-5d2e-40ba-8f07-c1fa6cc7a960)
+
+![QQ截图20240504125859](https://github.com/yinweinidongle/earth-china/assets/18652091/e0c03d53-ef2c-4b52-aa76-f7bd211bde8c)
 
 
 
